@@ -1,0 +1,5 @@
+A barebones trie map implementation in C, which I built to play around with
+function pointers and trying to make things generic.  Also I have been curious
+lately about the preformance about trymaps vs hashmaps when the keys are all
+strings, so eventually I want to test out the performance here with the
+performance of a hash map library.
