@@ -21,7 +21,7 @@ int main(){
   printf("num elts in mytry: %d\n", size_try(mytry));
 
   int blah2 = 23;
-  char hello2[] = "fuck off!";
+  char hello2[] = "goodbye!";
   iput_try(mytry,&blah2,(void *)hello2);
   printf("added another, now we have %d elts\n", size_try(mytry));
 
